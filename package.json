@@ -1,6 +1,6 @@
 {
   "name": "vue-typescript-vite",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
@@ -35,5 +35,17 @@
     "vite-plugin-eslint": "^1.3.0",
     "vue-eslint-parser": "^8.0.1",
     "vue-tsc": "^0.34.7"
-  }
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledinhhuan/vue-typescript-vite.git"
+  },
+  "author": "dinhhuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledinhhuan/vue-typescript-vite/issues"
+  },
+  "homepage": "https://github.com/ledinhhuan/vue-typescript-vite#readme"
 }
